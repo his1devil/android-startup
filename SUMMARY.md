@@ -2,4 +2,5 @@
 
 * 1. Java基础
 * [5. 计时器应用](5ji_shi_qi_ying_yong_md.md)
+* 6. 小测试应用
 
