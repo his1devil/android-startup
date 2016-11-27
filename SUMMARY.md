@@ -6,5 +6,4 @@
 * [6. 小测试应用](6_xiao_ce_shi_ying_yong.md)
    * [Java对象.md](javaobj.md)
    * [style](style.md)
-* 7. 音乐应用结构
-   * 多屏应用
+
