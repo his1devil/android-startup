@@ -14,3 +14,5 @@ ListView + ArrayAdapter
 ListView.setAdapter()方法需要ListAdapter作为参数 ListAdapter是个接口
 BaseAdapter是个抽象类
 ArrayAdapter是ListAdapter
+
+Adapter知道数据来源是什么，例如数组或是列表, 并且知道如何将每项呈现为视图
