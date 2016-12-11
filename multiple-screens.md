@@ -13,4 +13,9 @@ https://material.io/devices/
 
 Density-Independent-Pixels 密度独立像素 表示宽度和高度值
 
+##### change wordAdapter
 
+Word currentWord = getItem(position)
+
+ImageView imageView = (ImageView) listItemView.findViewById(R.id.image);
+imageView.setImageResource(currentWord.getImageResourceId());
